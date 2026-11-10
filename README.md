@@ -9,5 +9,3 @@ developer in progress
 currently learning
 
 Java · Git · Fabric
-
-less talk, more code.
